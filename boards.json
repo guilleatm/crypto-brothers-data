@@ -2,13 +2,13 @@
     "boards":
     [
         {
-            "Name": Mercadona,
-            "ID": mercadona,
+            "Name": "Mercadona",
+            "ID": "mercadona",
         },
 
         {
-            "Name": RFEF,
-            "ID": rfef,
+            "Name": "RFEF",
+            "ID": "rfef",
         }
     ]
 }
