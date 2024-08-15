@@ -10,7 +10,9 @@
             "BaseSlope": 0.1,
             "Multiplier": 1,
             "Coins": 1,
-            "Gems": 0
+            "Gems": 0,
+            "Width": 10,
+            "Color": "#00FF00"
         },
         {
             "Name": "Kebab Amigo",
@@ -21,7 +23,9 @@
             "BaseSlope": 0.15,
             "Multiplier": 1,
             "Coins": 1000,
-            "Gems": 0
+            "Gems": 0,
+            "Width": 10,
+            "Color": "#00FF00"
         },
         {
             "Name": "RFEF",
@@ -32,7 +36,9 @@
             "BaseSlope": 0.225,
             "Multiplier": 1,
             "Coins": 1501,
-            "Gems": 1
+            "Gems": 1,
+            "Width": 10,
+            "Color": "#00FF00"
         },
         {
             "Name": "Renfe",
@@ -43,7 +49,9 @@
             "BaseSlope": 0.3375,
             "Multiplier": 1,
             "Coins": 3250,
-            "Gems": 1
+            "Gems": 1,
+            "Width": 10,
+            "Color": "#00FF00"
         },
         {
             "Name": "Atresmedia",
@@ -54,7 +62,9 @@
             "BaseSlope": 0.50625,
             "Multiplier": 1,
             "Coins": 4876,
-            "Gems": 2
+            "Gems": 2,
+            "Width": 10,
+            "Color": "#00FF00"
         },
         {
             "Name": "Iberia",
@@ -65,7 +75,9 @@
             "BaseSlope": 0.759375,
             "Multiplier": 1,
             "Coins": 8312.5,
-            "Gems": 2
+            "Gems": 2,
+            "Width": 10,
+            "Color": "#00FF00"
         },
         {
             "Name": "Airbnb",
@@ -76,7 +88,9 @@
             "BaseSlope": 1.1390625,
             "Multiplier": 1,
             "Coins": 12469.75,
-            "Gems": 2
+            "Gems": 2,
+            "Width": 10,
+            "Color": "#00FF00"
         },
         {
             "Name": "Casa Real",
@@ -87,7 +101,9 @@
             "BaseSlope": 1.70859375,
             "Multiplier": 1,
             "Coins": 19703.125,
-            "Gems": 3
+            "Gems": 3,
+            "Width": 10,
+            "Color": "#00FF00"
         },
         {
             "Name": "Real Madrid",
@@ -98,7 +114,9 @@
             "BaseSlope": 2.562890625,
             "Multiplier": 1,
             "Coins": 29555.6875,
-            "Gems": 3
+            "Gems": 3,
+            "Width": 10,
+            "Color": "#00FF00"
         },
         {
             "Name": "Caixa Bank",
@@ -109,7 +127,9 @@
             "BaseSlope": 3.844335938,
             "Multiplier": 1,
             "Coins": 45332.03125,
-            "Gems": 3
+            "Gems": 3,
+            "Width": 10,
+            "Color": "#00FF00"
         },
         {
             "Name": "Ryanair",
@@ -120,7 +140,9 @@
             "BaseSlope": 5.766503906,
             "Multiplier": 1,
             "Coins": 67999.04688,
-            "Gems": 4
+            "Gems": 4,
+            "Width": 10,
+            "Color": "#00FF00"
         },
         {
             "Name": "Booking",
@@ -131,7 +153,9 @@
             "BaseSlope": 8.649755859,
             "Multiplier": 1,
             "Coins": 102997.0703,
-            "Gems": 4
+            "Gems": 4,
+            "Width": 10,
+            "Color": "#00FF00"
         },
         {
             "Name": "Repsol",
@@ -142,7 +166,9 @@
             "BaseSlope": 12.97463379,
             "Multiplier": 1,
             "Coins": 154496.6055,
-            "Gems": 5
+            "Gems": 5,
+            "Width": 10,
+            "Color": "#00FF00"
         },
         {
             "Name": "Mercadona",
@@ -153,7 +179,9 @@
             "BaseSlope": 19.46195068,
             "Multiplier": 1,
             "Coins": 232743.4082,
-            "Gems": 5
+            "Gems": 5,
+            "Width": 10,
+            "Color": "#00FF00"
         },
         {
             "Name": "Inditex",
@@ -164,7 +192,9 @@
             "BaseSlope": 29.19292603,
             "Multiplier": 1,
             "Coins": 349116.1123,
-            "Gems": 6
+            "Gems": 6,
+            "Width": 10,
+            "Color": "#00FF00"
         },
         {
             "Name": "Netflix",
@@ -175,7 +205,9 @@
             "BaseSlope": 43.78938904,
             "Multiplier": 1,
             "Coins": 524672.6685,
-            "Gems": 6
+            "Gems": 6,
+            "Width": 10,
+            "Color": "#00FF00"
         },
         {
             "Name": "Amazon",
@@ -186,7 +218,9 @@
             "BaseSlope": 65.68408356,
             "Multiplier": 1,
             "Coins": 787010.0027,
-            "Gems": 7
+            "Gems": 7,
+            "Width": 10,
+            "Color": "#00FF00"
         },
         {
             "Name": "Meta",
@@ -197,7 +231,9 @@
             "BaseSlope": 98.52612534,
             "Multiplier": 1,
             "Coins": 1181513.504,
-            "Gems": 7
+            "Gems": 7,
+            "Width": 10,
+            "Color": "#00FF00"
         }
-    ]
-}    
+    ]    
+}
