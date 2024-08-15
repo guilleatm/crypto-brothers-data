@@ -2,13 +2,202 @@
     "boards":
     [
         {
-            "Name": "Mercadona",
-            "ID": "mercadona",
+            "Name": "Ferreteria Paco",
+            "ID": "ferreteria_paco",
+            "MinTime": 0.4,
+            "MaxTime": 1,
+            "MaxSlope": 0.2,
+            "BaseSlope": 0.1,
+            "Multiplier": 1,
+            "Coins": 1,
+            "Gems": 0
         },
-
+        {
+            "Name": "Kebab Amigo",
+            "ID": "kebab_amigo",
+            "MinTime": 0.5,
+            "MaxTime": 1,
+            "MaxSlope": 0.3,
+            "BaseSlope": 0.15,
+            "Multiplier": 1,
+            "Coins": 1000,
+            "Gems": 0
+        },
         {
             "Name": "RFEF",
             "ID": "rfef",
+            "MinTime": 0.6,
+            "MaxTime": 1,
+            "MaxSlope": 0.45,
+            "BaseSlope": 0.225,
+            "Multiplier": 1,
+            "Coins": 1501,
+            "Gems": 1
+        },
+        {
+            "Name": "Renfe",
+            "ID": "renfe",
+            "MinTime": 0.7,
+            "MaxTime": 1,
+            "MaxSlope": 0.675,
+            "BaseSlope": 0.3375,
+            "Multiplier": 1,
+            "Coins": 3250,
+            "Gems": 1
+        },
+        {
+            "Name": "Atresmedia",
+            "ID": "atresmedia",
+            "MinTime": 0.8,
+            "MaxTime": 1,
+            "MaxSlope": 1.0125,
+            "BaseSlope": 0.50625,
+            "Multiplier": 1,
+            "Coins": 4876,
+            "Gems": 2
+        },
+        {
+            "Name": "Iberia",
+            "ID": "iberia",
+            "MinTime": 0.9,
+            "MaxTime": 1,
+            "MaxSlope": 1.51875,
+            "BaseSlope": 0.759375,
+            "Multiplier": 1,
+            "Coins": 8312.5,
+            "Gems": 2
+        },
+        {
+            "Name": "Airbnb",
+            "ID": "airbnb",
+            "MinTime": 0.10,
+            "MaxTime": 1,
+            "MaxSlope": 2.278125,
+            "BaseSlope": 1.1390625,
+            "Multiplier": 1,
+            "Coins": 12469.75,
+            "Gems": 2
+        },
+        {
+            "Name": "Casa Real",
+            "ID": "casa_real",
+            "MinTime": 0.11,
+            "MaxTime": 1,
+            "MaxSlope": 3.4171875,
+            "BaseSlope": 1.70859375,
+            "Multiplier": 1,
+            "Coins": 19703.125,
+            "Gems": 3
+        },
+        {
+            "Name": "Real Madrid",
+            "ID": "real_madrid",
+            "MinTime": 0.12,
+            "MaxTime": 1,
+            "MaxSlope": 5.12578125,
+            "BaseSlope": 2.562890625,
+            "Multiplier": 1,
+            "Coins": 29555.6875,
+            "Gems": 3
+        },
+        {
+            "Name": "Caixa Bank",
+            "ID": "caixa_bank",
+            "MinTime": 0.13,
+            "MaxTime": 1,
+            "MaxSlope": 7.688671875,
+            "BaseSlope": 3.844335938,
+            "Multiplier": 1,
+            "Coins": 45332.03125,
+            "Gems": 3
+        },
+        {
+            "Name": "Ryanair",
+            "ID": "ryanair",
+            "MinTime": 0.14,
+            "MaxTime": 1,
+            "MaxSlope": 11.53300781,
+            "BaseSlope": 5.766503906,
+            "Multiplier": 1,
+            "Coins": 67999.04688,
+            "Gems": 4
+        },
+        {
+            "Name": "Booking",
+            "ID": "booking",
+            "MinTime": 0.15,
+            "MaxTime": 1,
+            "MaxSlope": 17.29951172,
+            "BaseSlope": 8.649755859,
+            "Multiplier": 1,
+            "Coins": 102997.0703,
+            "Gems": 4
+        },
+        {
+            "Name": "Repsol",
+            "ID": "repsol",
+            "MinTime": 0.16,
+            "MaxTime": 1,
+            "MaxSlope": 25.94926758,
+            "BaseSlope": 12.97463379,
+            "Multiplier": 1,
+            "Coins": 154496.6055,
+            "Gems": 5
+        },
+        {
+            "Name": "Mercadona",
+            "ID": "mercadona",
+            "MinTime": 0.17,
+            "MaxTime": 1,
+            "MaxSlope": 38.92390137,
+            "BaseSlope": 19.46195068,
+            "Multiplier": 1,
+            "Coins": 232743.4082,
+            "Gems": 5
+        },
+        {
+            "Name": "Inditex",
+            "ID": "inditex",
+            "MinTime": 0.18,
+            "MaxTime": 1,
+            "MaxSlope": 58.38585205,
+            "BaseSlope": 29.19292603,
+            "Multiplier": 1,
+            "Coins": 349116.1123,
+            "Gems": 6
+        },
+        {
+            "Name": "Netflix",
+            "ID": "netflix",
+            "MinTime": 0.19,
+            "MaxTime": 1,
+            "MaxSlope": 87.57877808,
+            "BaseSlope": 43.78938904,
+            "Multiplier": 1,
+            "Coins": 524672.6685,
+            "Gems": 6
+        },
+        {
+            "Name": "Amazon",
+            "ID": "amazon",
+            "MinTime": 0.20,
+            "MaxTime": 1,
+            "MaxSlope": 131.3681671,
+            "BaseSlope": 65.68408356,
+            "Multiplier": 1,
+            "Coins": 787010.0027,
+            "Gems": 7
+        },
+        {
+            "Name": "Meta",
+            "ID": "meta",
+            "MinTime": 0.21,
+            "MaxTime": 1,
+            "MaxSlope": 197.0522507,
+            "BaseSlope": 98.52612534,
+            "Multiplier": 1,
+            "Coins": 1181513.504,
+            "Gems": 7
         }
     ]
-}
+}    
