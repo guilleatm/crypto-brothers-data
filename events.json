@@ -1,1 +1,75 @@
- 
+{
+    "events":
+    [
+        {
+            "ID": "kebab_amigo",
+            "Tier": 0,
+            "Message": "Kebab Amigo introduce una nueva receta vegana para atraer a clientes vegetarianos. ¡Diversificación del menú!",
+            "Time": 3.0,
+            "BaseSlope": 1.8
+        },
+        {
+            "ID": "kebab_amigo",
+            "Tier": 0,
+            "Message": "Un brote de intoxicación alimentaria en un local de Kebab Amigo causa preocupación. ¡Problemas de salud!",
+            "Time": 4.5,
+            "BaseSlope": -2.5
+        },
+        {
+            "ID": "kebab_amigo",
+            "Tier": 0,
+            "Message": "Se inaugura una nueva sucursal de Kebab Amigo en el centro de la ciudad. ¡Expansión de la cadena!",
+            "Time": 2.5,
+            "BaseSlope": 1.5
+        },
+        {
+            "ID": "kebab_amigo",
+            "Tier": 0,
+            "Message": "Kebab Amigo recibe una calificación alta en una importante guía de restaurantes. ¡Éxito culinario!",
+            "Time": 3.0,
+            "BaseSlope": 2.0
+        },
+        {
+            "ID": "kebab_amigo",
+            "Tier": 0,
+            "Message": "Un incremento en los precios de los ingredientes afecta los márgenes de ganancia. ¡Desafíos financieros!",
+            "Time": 4.0,
+            "BaseSlope": -2.0
+        },
+        {
+            "ID": "kebab_amigo",
+            "Tier": 0,
+            "Message": "Kebab Amigo lanza una campaña de marketing agresiva para atraer a nuevos clientes. ¡Más visibilidad!",
+            "Time": 2.0,
+            "BaseSlope": 1.5
+        },
+        {
+            "ID": "kebab_amigo",
+            "Tier": 0,
+            "Message": "Un incidente de limpieza deficiente en una sucursal genera críticas de los clientes. ¡Problemas operativos!",
+            "Time": 3.5,
+            "BaseSlope": -2.0
+        },
+        {
+            "ID": "kebab_amigo",
+            "Tier": 0,
+            "Message": "Kebab Amigo introduce un programa de fidelidad para recompensar a los clientes frecuentes. ¡Lealtad incentivada!",
+            "Time": 2.5,
+            "BaseSlope": 1.8
+        },
+        {
+            "ID": "kebab_amigo",
+            "Tier": 0,
+            "Message": "El lanzamiento de una nueva línea de kebabs gourmet genera gran interés en redes sociales. ¡Tendencia en aumento!",
+            "Time": 3.0,
+            "BaseSlope": 2.0
+        },
+        {
+            "ID": "kebab_amigo",
+            "Tier": 0,
+            "Message": "Problemas con la cadena de suministro causan escasez de productos en varias sucursales. ¡Desafíos de abastecimiento!",
+            "Time": 4.5,
+            "BaseSlope": -2.5
+        }
+    ]
+}
