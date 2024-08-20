@@ -689,7 +689,7 @@
         {
             "ID": "renfe",
             "Tier": 0,
-            "Message": "Genial! Parece que ahora para 'llegar tarde' tienen que pasar 90 minutos",
+            "Message": "Genial! Parece que ahora para \"llegar tarde\" tienen que pasar 90 minutos",
             "Time": 3,
             "BaseSlope": -2
         },
