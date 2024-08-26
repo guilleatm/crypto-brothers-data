@@ -1153,7 +1153,7 @@
             "Tier": 0,
             "Message": "Hey Javi! Una ayudita, selecciona el tablero para que te suban los dineros",
             "Time": 10,
-            "BaseSlope": 4
+            "BaseSlope": 2
         },
         {
             "ID": "ferreteria_paco",
