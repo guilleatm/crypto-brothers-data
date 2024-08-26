@@ -1151,16 +1151,16 @@
         {
             "ID": "ferreteria_paco",
             "Tier": 0,
-            "Message": "Esto es un evento / noticia, es información sobre la empresa para que sepas si va a subir o bajar",
-            "Time": 3,
-            "BaseSlope": -3
+            "Message": "Hey Javi! Una ayudita, selecciona el tablero para que te suban los dineros",
+            "Time": 10,
+            "BaseSlope": 4
         },
         {
             "ID": "ferreteria_paco",
             "Tier": 0,
-            "Message": "Hey Javi! Una ayudita, selecciona el tablero para que te suban los dineros",
-            "Time": 10,
-            "BaseSlope": 4
+            "Message": "Esto es un evento / noticia, es información sobre la empresa para que sepas si va a subir o bajar",
+            "Time": 3,
+            "BaseSlope": -3
         }
     ]
 }
