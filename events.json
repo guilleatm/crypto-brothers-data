@@ -1,1166 +1,354 @@
 {
     "events": [
         {
-            "ID": "inditex",
+            "ID": "amazon",
             "Tier": 0,
-            "Message": "¡La moda rápida se acelera aún más! Inditex inaugura 50 fábricas en tiempo récord.",
-            "Time": 3.5,
-            "BaseSlope": 2.0
-        },
-        {
-            "ID": "inditex",
-            "Tier": 0,
-            "Message": "Se descubre que Inditex usa materiales tóxicos en sus prendas. ¡Moda peligrosa!",
-            "Time": 4.0,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "inditex",
-            "Tier": 0,
-            "Message": "Inditex anuncia colaboración con influencers juveniles. ¡Trend alert!",
-            "Time": 2.5,
-            "BaseSlope": 1.5
-        },
-        {
-            "ID": "inditex",
-            "Tier": 0,
-            "Message": "Protestas en fábricas de Inditex por condiciones laborales. ¡Cuidado con el trending topic!",
+            "Message": "New Amazon drone delivery service promises to drop packages almost near your house",
             "Time": 3.0,
-            "BaseSlope": -1.5
+            "Weight": 2.0
         },
         {
-            "ID": "inditex",
+            "ID": "amazon",
             "Tier": 0,
-            "Message": "Nuevo escándalo de plagio en Inditex. ¡Las copias están de moda!",
+            "Message": "Breaking Amazon workers now allowed to blink twice per shift",
             "Time": 4.5,
-            "BaseSlope": -2.0
+            "Weight": -2.5
         },
         {
-            "ID": "inditex",
+            "ID": "amazon",
             "Tier": 0,
-            "Message": "Inditex reduce salarios en Asia para mantener precios bajos. ¡El costo de la moda!",
-            "Time": 3.0,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "inditex",
-            "Tier": 0,
-            "Message": "Auditoría revela prácticas fiscales cuestionables en Inditex. ¡Los números no cuadran!",
-            "Time": 3.5,
-            "BaseSlope": -1.8
-        },
-        {
-            "ID": "inditex",
-            "Tier": 0,
-            "Message": "Inditex lanza línea ecológica para lavar su imagen. ¡Greenwashing!",
+            "Message": "Exciting Amazon Prime now includes 1-day shipping on burnout for warehouse employees",
             "Time": 2.5,
-            "BaseSlope": 2.2
+            "Weight": 1.8
         },
         {
-            "ID": "inditex",
+            "ID": "amazon",
             "Tier": 0,
-            "Message": "Inditex cierra tiendas en Europa para enfocarse en online. ¡Cambio de estrategia!",
+            "Message": "Shocking Amazon discovered to be evading taxes in countries that actually collect them",
             "Time": 4.0,
-            "BaseSlope": 1.0
+            "Weight": -2.0
         },
         {
-            "ID": "inditex",
+            "ID": "amazon",
             "Tier": 0,
-            "Message": "El CEO de Inditex recibe un bono millonario. ¡El jefe siempre gana!",
-            "Time": 3.0,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "netflix",
-            "Tier": 0,
-            "Message": "Netflix sube el precio de la suscripción un 50%. ¡Binge-watching premium para todos!",
-            "Time": 3.0,
-            "BaseSlope": 1.0
-        },
-        {
-            "ID": "netflix",
-            "Tier": 0,
-            "Message": "Escándalo de acoso sexual en la cúpula directiva de Netflix. ¡Drama detrás del drama!",
-            "Time": 4.0,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "netflix",
-            "Tier": 0,
-            "Message": "Netflix lanza una nueva serie que rompe récords de audiencia. ¡Netflix and chill reloaded!",
-            "Time": 5.0,
-            "BaseSlope": 2.0
-        },
-        {
-            "ID": "netflix",
-            "Tier": 0,
-            "Message": "Netflix cancela tu serie favorita. ¡Otra vez! ¿Por qué siempre las buenas?",
-            "Time": 3.5,
-            "BaseSlope": -1.5
-        },
-        {
-            "ID": "netflix",
-            "Tier": 0,
-            "Message": "Descubren que Netflix manipula sus métricas de audiencia. ¡Los números mágicos!",
-            "Time": 4.0,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "netflix",
-            "Tier": 0,
-            "Message": "Netflix invierte millones en producir contenido en español. ¡Expansión ibérica!",
-            "Time": 2.5,
-            "BaseSlope": 1.5
-        },
-        {
-            "ID": "netflix",
-            "Tier": 0,
-            "Message": "Nueva ley obliga a Netflix a pagar más impuestos en Europa. ¡El drama fiscal continúa!",
-            "Time": 3.0,
-            "BaseSlope": -1.8
-        },
-        {
-            "ID": "netflix",
-            "Tier": 0,
-            "Message": "Netflix firma acuerdo exclusivo con famoso director. ¡El cine de autor llega al streaming!",
+            "Message": "Local business celebrates being crushed by Amazon ahead of schedule",
             "Time": 2.0,
-            "BaseSlope": 2.5
-        },
-        {
-            "ID": "netflix",
-            "Tier": 0,
-            "Message": "Netflix experimenta con publicidad en su plataforma. ¡Adiós al binge sin interrupciones!",
-            "Time": 3.0,
-            "BaseSlope": -1.0
-        },
-        {
-            "ID": "netflix",
-            "Tier": 0,
-            "Message": "La competencia lanza un servicio similar a Netflix a mitad de precio. ¡Guerra de streaming!",
-            "Time": 4.5,
-            "BaseSlope": -2.5
+            "Weight": 1.5
         },
         {
             "ID": "amazon",
             "Tier": 0,
-            "Message": "Amazon es acusada de tratar mal a sus trabajadores en los almacenes. ¡Más escándalos laborales!",
-            "Time": 4.0,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "amazon",
-            "Tier": 0,
-            "Message": "Amazon evade impuestos en Europa nuevamente. ¡Los trucos fiscales de siempre!",
+            "Message": "Amazon introduces a new 5-minute bathroom break lottery for employees",
             "Time": 3.5,
-            "BaseSlope": -1.5
+            "Weight": -2.0
         },
         {
             "ID": "amazon",
             "Tier": 0,
-            "Message": "Amazon Prime Day rompe récords de ventas. ¡La fiebre de las compras online!",
-            "Time": 5.0,
-            "BaseSlope": 2.5
-        },
-        {
-            "ID": "amazon",
-            "Tier": 0,
-            "Message": "Jeff Bezos hace un viaje espacial. ¡Dinero que se va al espacio!",
-            "Time": 3.0,
-            "BaseSlope": 1.0
-        },
-        {
-            "ID": "amazon",
-            "Tier": 0,
-            "Message": "Protestas globales contra las condiciones laborales en Amazon. ¡Se enciende el malestar!",
-            "Time": 4.5,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "amazon",
-            "Tier": 0,
-            "Message": "Amazon lanza una nueva línea de productos ecológicos. ¡Greenwashing en acción!",
+            "Message": "New Amazon initiative zero carbon emissions by replacing all human workers with robots",
             "Time": 2.5,
-            "BaseSlope": 1.5
+            "Weight": 1.8
         },
         {
             "ID": "amazon",
             "Tier": 0,
-            "Message": "Investigaciones revelan prácticas monopólicas de Amazon. ¡El gigante bajo la lupa!",
-            "Time": 3.0,
-            "BaseSlope": -2.0
+            "Message": "Customers rejoice Amazon promises to ship empathy in 2 years or less",
+            "Time": 4.0,
+            "Weight": -2.2
         },
         {
             "ID": "amazon",
             "Tier": 0,
-            "Message": "Amazon Web Services sufre una gran caída, afectando a miles de sitios. ¡Caos en la nube!",
-            "Time": 4.0,
-            "BaseSlope": -1.5
+            "Message": "Record profits Amazon achieves goal of same-day delivery on all ethical concerns",
+            "Time": 3.0,
+            "Weight": 1.5
         },
         {
             "ID": "amazon",
             "Tier": 0,
-            "Message": "Amazon adquiere otra gran empresa tecnológica. ¡Expandiendo el imperio!",
-            "Time": 3.5,
-            "BaseSlope": 2.0
-        },
-        {
-            "ID": "amazon",
-            "Tier": 0,
-            "Message": "Amazon implementa drones para la entrega de paquetes. ¡La ciencia ficción se hace realidad!",
-            "Time": 2.0,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "meta",
-            "Tier": 0,
-            "Message": "Escándalo de Cambridge Analytica resurge. ¡Los datos de los usuarios no están a salvo!",
+            "Message": "Ambitious Amazon plans to deliver packages faster than you can regret your purchase",
             "Time": 4.5,
-            "BaseSlope": -2.5
+            "Weight": -2.5
         },
         {
-            "ID": "meta",
+            "ID": "shein",
             "Tier": 0,
-            "Message": "Facebook cambia su nombre a Meta y se enfoca en el metaverso. ¡El futuro virtual está aquí!",
-            "Time": 3.0,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "meta",
-            "Tier": 0,
-            "Message": "Facebook sufre una caída masiva a nivel mundial. ¡Los usuarios en pánico!",
-            "Time": 3.5,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "meta",
-            "Tier": 0,
-            "Message": "Se revela que Facebook manipula algoritmos para aumentar el engagement. ¡La verdad sale a la luz!",
-            "Time": 4.0,
-            "BaseSlope": -2.2
-        },
-        {
-            "ID": "meta",
-            "Tier": 0,
-            "Message": "Facebook introduce nuevas medidas de privacidad. ¡Intento de redención o marketing?",
-            "Time": 2.5,
-            "BaseSlope": 1.5
-        },
-        {
-            "ID": "meta",
-            "Tier": 0,
-            "Message": "Facebook enfrenta multas millonarias por violaciones de privacidad. ¡Golpe a las finanzas!",
-            "Time": 3.0,
-            "BaseSlope": -1.8
-        },
-        {
-            "ID": "meta",
-            "Tier": 0,
-            "Message": "Meta lanza Horizon Worlds, su plataforma de metaverso. ¡Aventuras virtuales para todos!",
-            "Time": 4.0,
-            "BaseSlope": 2.0
-        },
-        {
-            "ID": "meta",
-            "Tier": 0,
-            "Message": "Facebook es acusado de promover noticias falsas durante elecciones. ¡La política entra en juego!",
-            "Time": 3.5,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "meta",
-            "Tier": 0,
-            "Message": "Se descubren prácticas anticompetitivas en Facebook. ¡El monopolio digital en jaque!",
-            "Time": 3.0,
-            "BaseSlope": -1.5
-        },
-        {
-            "ID": "meta",
-            "Tier": 0,
-            "Message": "Facebook lanza nueva funcionalidad para negocios. ¡El comercio social se expande!",
-            "Time": 2.0,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "airbnb",
-            "Tier": 0,
-            "Message": "Airbnb lanza una campaña global para atraer a más anfitriones. ¡Expansión sin límites!",
-            "Time": 3.0,
-            "BaseSlope": 2.0
-        },
-        {
-            "ID": "airbnb",
-            "Tier": 0,
-            "Message": "Protestas en ciudades europeas contra la masificación turística por Airbnb. ¡El turismo bajo presión!",
-            "Time": 4.5,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "airbnb",
-            "Tier": 0,
-            "Message": "Airbnb introduce nuevas medidas de seguridad para los anfitriones y huéspedes. ¡Estancia segura garantizada!",
-            "Time": 2.5,
-            "BaseSlope": 1.5
-        },
-        {
-            "ID": "airbnb",
-            "Tier": 0,
-            "Message": "Escándalo: Descubren que algunos anfitriones de Airbnb no pagan impuestos. ¡Evasión fiscal en el hogar!",
-            "Time": 3.5,
-            "BaseSlope": -1.8
-        },
-        {
-            "ID": "airbnb",
-            "Tier": 0,
-            "Message": "Airbnb colabora con artistas locales para ofrecer experiencias únicas. ¡Creatividad y turismo juntos!",
-            "Time": 2.0,
-            "BaseSlope": 2.2
-        },
-        {
-            "ID": "airbnb",
-            "Tier": 0,
-            "Message": "Vecinos de áreas turísticas se quejan del ruido y la masificación por Airbnb. ¡La convivencia se complica!",
-            "Time": 4.0,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "airbnb",
-            "Tier": 0,
-            "Message": "Airbnb reporta un aumento récord de reservas durante la temporada alta. ¡Boom turístico!",
-            "Time": 3.0,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "airbnb",
-            "Tier": 0,
-            "Message": "Gobiernos locales imponen nuevas regulaciones a Airbnb para controlar la masificación turística. ¡Regulación en marcha!",
-            "Time": 3.5,
-            "BaseSlope": -1.5
-        },
-        {
-            "ID": "airbnb",
-            "Tier": 0,
-            "Message": "Airbnb introduce una función de verificación de identidad para mayor seguridad. ¡Confianza en cada reserva!",
-            "Time": 2.5,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "airbnb",
-            "Tier": 0,
-            "Message": "Airbnb sufre una caída masiva de su plataforma durante el fin de semana. ¡Usuarios frustrados!",
-            "Time": 4.0,
-            "BaseSlope": -2.2
-        },
-        {
-            "ID": "iberia",
-            "Tier": 0,
-            "Message": "Iberia enfrenta una huelga masiva de pilotos. ¡Vuelos cancelados por doquier!",
-            "Time": 4.5,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "iberia",
-            "Tier": 0,
-            "Message": "Escándalo por condiciones de trabajo en la aerolínea. ¡Las quejas vuelan alto!",
-            "Time": 4.0,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "iberia",
-            "Tier": 0,
-            "Message": "Iberia sufre un fallo en su sistema de reservas. ¡Clientes atrapados en el limbo!",
-            "Time": 3.5,
-            "BaseSlope": -1.8
-        },
-        {
-            "ID": "iberia",
-            "Tier": 0,
-            "Message": "Filtración de datos de clientes en Iberia. ¡La privacidad de los pasajeros en riesgo!",
-            "Time": 4.0,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "iberia",
-            "Tier": 0,
-            "Message": "Iberia reporta pérdidas financieras debido a la caída en la demanda. ¡El turbulento mercado afecta!",
-            "Time": 3.5,
-            "BaseSlope": -1.8
-        },
-        {
-            "ID": "iberia",
-            "Tier": 0,
-            "Message": "Incidentes de sobreventa de billetes provocan caos en los aeropuertos. ¡El embarque se complica!",
-            "Time": 4.0,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "iberia",
-            "Tier": 0,
-            "Message": "Iberia es criticada por el mal manejo de equipaje. ¡Malas noticias para los viajeros frecuentes!",
-            "Time": 3.5,
-            "BaseSlope": -1.7
-        },
-        {
-            "ID": "iberia",
-            "Tier": 0,
-            "Message": "Quejas por retrasos y cancelaciones masivas de vuelos. ¡Iberia en la cuerda floja!",
-            "Time": 4.5,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "iberia",
-            "Tier": 0,
-            "Message": "Accidente en uno de los aviones de Iberia genera incertidumbre. ¡La seguridad en entredicho!",
-            "Time": 4.5,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "iberia",
-            "Tier": 0,
-            "Message": "Iberia enfrenta demandas por prácticas injustas en la compensación de vuelos. ¡Los pasajeros no están contentos!",
-            "Time": 4.0,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "real_madrid",
-            "Tier": 0,
-            "Message": "Real Madrid firma un contrato millonario con un nuevo patrocinador. ¡Más ingresos para el club!",
-            "Time": 3.0,
-            "BaseSlope": 2.0
-        },
-        {
-            "ID": "real_madrid",
-            "Tier": 0,
-            "Message": "Real Madrid enfrenta críticas por el alto costo de los boletos para la final de la Champions League. ¡El lujo tiene su precio!",
-            "Time": 4.5,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "real_madrid",
-            "Tier": 0,
-            "Message": "El equipo anuncia una gira internacional para expandir su marca. ¡La fama global continúa!",
-            "Time": 3.5,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "real_madrid",
-            "Tier": 0,
-            "Message": "Un escándalo de fraude en el club afecta la moral del equipo. ¡Problemas internos!",
-            "Time": 4.0,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "real_madrid",
-            "Tier": 0,
-            "Message": "Real Madrid gana el campeonato de La Liga con una remontada épica. ¡Celebraciones en Madrid!",
-            "Time": 2.5,
-            "BaseSlope": 2.2
-        },
-        {
-            "ID": "real_madrid",
-            "Tier": 0,
-            "Message": "El club realiza una inversión en tecnología avanzada para mejorar el rendimiento de los jugadores. ¡Innovación en el deporte!",
-            "Time": 2.0,
-            "BaseSlope": 1.5
-        },
-        {
-            "ID": "real_madrid",
-            "Tier": 0,
-            "Message": "Real Madrid enfrenta una sanción por el incumplimiento de las normas financieras del fair play. ¡Multa y advertencias!",
-            "Time": 4.0,
-            "BaseSlope": -1.8
-        },
-        {
-            "ID": "real_madrid",
-            "Tier": 0,
-            "Message": "El entrenador del equipo renueva su contrato por 5 años más. ¡Estabilidad en el banquillo!",
-            "Time": 3.0,
-            "BaseSlope": 2.0
-        },
-        {
-            "ID": "real_madrid",
-            "Tier": 0,
-            "Message": "Un jugador estrella sufre una lesión grave que pone en riesgo su temporada. ¡Desafíos en el campo!",
-            "Time": 4.5,
-            "BaseSlope": -2.2
-        },
-        {
-            "ID": "real_madrid",
-            "Tier": 0,
-            "Message": "Real Madrid introduce una nueva línea de merchandising exclusiva. ¡Más ingresos por ventas!",
-            "Time": 3.0,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "caixa_bank",
-            "Tier": 0,
-            "Message": "Caixa Bank anuncia una gran expansión internacional. ¡Nueva presencia en mercados clave!",
-            "Time": 3.5,
-            "BaseSlope": 2.0
-        },
-        {
-            "ID": "caixa_bank",
-            "Tier": 0,
-            "Message": "El banco enfrenta una multa millonaria por prácticas de evasión fiscal. ¡Problemas legales en puerta!",
-            "Time": 4.0,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "caixa_bank",
-            "Tier": 0,
-            "Message": "Caixa Bank lanza una nueva aplicación móvil con innovadoras funciones de seguridad. ¡Banca digital avanzada!",
-            "Time": 2.5,
-            "BaseSlope": 1.5
-        },
-        {
-            "ID": "caixa_bank",
-            "Tier": 0,
-            "Message": "Un escándalo de fraude financiero afecta a varios clientes del banco. ¡Reputación en riesgo!",
-            "Time": 4.5,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "caixa_bank",
-            "Tier": 0,
-            "Message": "Caixa Bank firma un acuerdo estratégico con una fintech emergente. ¡Innovación en servicios financieros!",
-            "Time": 3.0,
-            "BaseSlope": 2.2
-        },
-        {
-            "ID": "caixa_bank",
-            "Tier": 0,
-            "Message": "El banco reduce sus tasas de interés para atraer nuevos clientes. ¡Beneficios para los usuarios!",
-            "Time": 2.0,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "caixa_bank",
-            "Tier": 0,
-            "Message": "Problemas en la implementación de un nuevo sistema de gestión causa retrasos en el servicio. ¡Desafíos operativos!",
-            "Time": 4.0,
-            "BaseSlope": -1.8
-        },
-        {
-            "ID": "caixa_bank",
-            "Tier": 0,
-            "Message": "Caixa Bank lanza una campaña de responsabilidad social corporativa en comunidades desfavorecidas. ¡Impacto positivo!",
-            "Time": 3.5,
-            "BaseSlope": 1.5
-        },
-        {
-            "ID": "caixa_bank",
-            "Tier": 0,
-            "Message": "El CEO del banco renuncia debido a problemas internos. ¡Cambio en el liderazgo!",
-            "Time": 4.0,
-            "BaseSlope": -2.2
-        },
-        {
-            "ID": "caixa_bank",
-            "Tier": 0,
-            "Message": "Caixa Bank introduce nuevas medidas de seguridad en sus cajeros automáticos. ¡Protección mejorada!",
-            "Time": 2.5,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "kebab_amigo",
-            "Tier": 0,
-            "Message": "¡Intoxicación alimentaria por kebab! Mierda, parece que hay que empezar a limpiar",
-            "Time": 3,
-            "BaseSlope": -19
-        },
-        {
-            "ID": "kebab_amigo",
-            "Tier": 0,
-            "Message": "Se desmaya un trabajador en las cocinas de Kebab Amigo por calor extremo, no tengo muy claro si tenemos seguro",
-            "Time": 3,
-            "BaseSlope": -2
-        },
-        {
-            "ID": "kebab_amigo",
-            "Tier": 0,
-            "Message": "Nos han plantado un festival a 200 metros del kebab, esto pinta bien",
-            "Time": 2.4,
-            "BaseSlope": 2
-        },
-        {
-            "ID": "kebab_amigo",
-            "Tier": 0,
-            "Message": "¡Mal, mal! Nos han hecho una inspección sanitaria por sorpresa, casi nos cierran el local",
+            "Message": "Shein launches new collection clothes for one-time use literally",
             "Time": 4,
-            "BaseSlope": -3
+            "Weight": -4
         },
         {
-            "ID": "kebab_amigo",
+            "ID": "shein",
             "Tier": 0,
-            "Message": "La inflación está haciendo que suba el pan de pita",
-            "Time": 6,
-            "BaseSlope": -8
-        },
-        {
-            "ID": "kebab_amigo",
-            "Tier": 0,
-            "Message": "Algún grafitero gracioso nos ha hecho una pintada en la puerta del local, como lo pille...",
+            "Message": "Unbelievable shein promises 0.01 transparency in its supply chain",
             "Time": 2,
-            "BaseSlope": -2
+            "Weight": -4
         },
         {
-            "ID": "booking",
+            "ID": "shein",
             "Tier": 0,
-            "Message": "Booking lanza una nueva función para comparar precios en tiempo real. ¡Más ahorro para los usuarios!",
-            "Time": 3.0,
-            "BaseSlope": 2.0
-        },
-        {
-            "ID": "booking",
-            "Tier": 0,
-            "Message": "Escándalo por filtración de datos de clientes afecta la confianza en la plataforma. ¡Problemas de seguridad!",
-            "Time": 4.5,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "booking",
-            "Tier": 0,
-            "Message": "Booking introduce un nuevo sistema de recompensas para clientes frecuentes. ¡Incentivos adicionales!",
-            "Time": 2.5,
-            "BaseSlope": 1.5
-        },
-        {
-            "ID": "booking",
-            "Tier": 0,
-            "Message": "Un fallo en el sistema de reservas causa problemas masivos para los usuarios. ¡Caos en las reservas!",
-            "Time": 4.0,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "booking",
-            "Tier": 0,
-            "Message": "Booking firma un acuerdo con cadenas hoteleras para ofrecer descuentos exclusivos. ¡Ofertas especiales!",
-            "Time": 3.0,
-            "BaseSlope": 2.2
-        },
-        {
-            "ID": "booking",
-            "Tier": 0,
-            "Message": "El sitio web de Booking experimenta una caída significativa, afectando el servicio al cliente. ¡Interrupciones en el servicio!",
-            "Time": 4.0,
-            "BaseSlope": -2.2
-        },
-        {
-            "ID": "booking",
-            "Tier": 0,
-            "Message": "Booking lanza una campaña de marketing digital agresiva para atraer nuevos usuarios. ¡Crecimiento del mercado!",
-            "Time": 2.0,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "booking",
-            "Tier": 0,
-            "Message": "Problemas con la calidad de los servicios en algunos alojamientos llevan a críticas negativas. ¡Reputación en juego!",
-            "Time": 4.5,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "booking",
-            "Tier": 0,
-            "Message": "Booking introduce mejoras en su aplicación móvil para facilitar la navegación. ¡Mejor experiencia del usuario!",
-            "Time": 3.0,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "booking",
-            "Tier": 0,
-            "Message": "Un acuerdo con un nuevo socio de servicios turísticos amplia las opciones disponibles para los usuarios. ¡Más variedad!",
-            "Time": 2.5,
-            "BaseSlope": 2.0
-        },
-        {
-            "ID": "renfe",
-            "Tier": 0,
-            "Message": "En fin, retrasos, lo de siempre...",
-            "Time": 3,
-            "BaseSlope": -15
-        },
-        {
-            "ID": "renfe",
-            "Tier": 0,
-            "Message": "¿Alguien sabe qué son los Renfecitos de venta?",
-            "Time": 3,
-            "BaseSlope": -1
-        },
-        {
-            "ID": "renfe",
-            "Tier": 0,
-            "Message": "Genial! Parece que ahora para \"llegar tarde\" tienen que pasar 90 minutos",
-            "Time": 3,
-            "BaseSlope": -2
-        },
-        {
-            "ID": "renfe",
-            "Tier": 0,
-            "Message": "¡Abono joven! Una excusa para subirse a un Renfe",
+            "Message": "Leaked Shein workers allowed to sleep 3 hours if they finish 500 garments a day",
             "Time": 5,
-            "BaseSlope": 2
+            "Weight": -15
         },
         {
-            "ID": "renfe",
+            "ID": "shein",
             "Tier": 0,
-            "Message": "Vaya parece que las pantallas informativas de las estaciones funcionan mal",
+            "Message": "Flash sale buy two dresses and get an environmental crisis for free",
             "Time": 2,
-            "BaseSlope": -15
+            "Weight": -6
         },
         {
-            "ID": "renfe",
+            "ID": "shein",
             "Tier": 0,
-            "Message": "¡Ahora las empresas privadas podrán utilizar la infraestructura ferroviaria!",
-            "Time": 4,
-            "BaseSlope": -25
-        },
-        {
-            "ID": "renfe",
-            "Tier": 0,
-            "Message": "¡No sale, no sale! ¿Cómo puede pasar esto en el centro de España?",
-            "Time": 2,
-            "BaseSlope": -4
-        },
-        {
-            "ID": "renfe",
-            "Tier": 0,
-            "Message": "Al parecer los mochileros no son capaces de llegar a Extremadura en transporte público",
-            "Time": 5,
-            "BaseSlope": -15
-        },
-        {
-            "ID": "renfe",
-            "Tier": 0,
-            "Message": "¡Noticia, noticia! El 65% de los trenes han llegado en hora hoy",
-            "Time": 2,
-            "BaseSlope": 3
-        },
-        {
-            "ID": "renfe",
-            "Tier": 0,
-            "Message": "¡Huelga de revisores!, dicen que los salarios tampoco llegan a tiempo",
+            "Message": "Shein claims sustainability is key they've stopped using plastic bags in employee lunches",
             "Time": 3,
-            "BaseSlope": -3
+            "Weight": 2
         },
         {
-            "ID": "atresmedia",
+            "ID": "shein",
             "Tier": 0,
-            "Message": "Atresmedia lanza una nueva serie original que se convierte en un éxito inmediato. ¡Nuevo hit en la pantalla!",
-            "Time": 3.0,
-            "BaseSlope": 2.0
-        },
-        {
-            "ID": "atresmedia",
-            "Tier": 0,
-            "Message": "El canal enfrenta críticas por un programa polémico. ¡Controversia en la televisión!",
-            "Time": 4.5,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "atresmedia",
-            "Tier": 0,
-            "Message": "Atresmedia firma un acuerdo con una plataforma de streaming para distribuir sus contenidos. ¡Expansión digital!",
-            "Time": 2.5,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "atresmedia",
-            "Tier": 0,
-            "Message": "Problemas técnicos en la transmisión en vivo causan interrupciones en varios programas. ¡Inconvenientes para los espectadores!",
-            "Time": 4.0,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "atresmedia",
-            "Tier": 0,
-            "Message": "Atresmedia lanza una nueva aplicación móvil con contenido exclusivo para suscriptores. ¡Más acceso para los fans!",
-            "Time": 2.0,
-            "BaseSlope": 1.5
-        },
-        {
-            "ID": "atresmedia",
-            "Tier": 0,
-            "Message": "El grupo inicia una campaña publicitaria para promover sus nuevos programas. ¡Marketing agresivo!",
-            "Time": 3.5,
-            "BaseSlope": 2.0
-        },
-        {
-            "ID": "atresmedia",
-            "Tier": 0,
-            "Message": "Un escándalo de filtración de datos de empleados afecta a la empresa. ¡Problemas de seguridad!",
-            "Time": 4.0,
-            "BaseSlope": -2.2
-        },
-        {
-            "ID": "atresmedia",
-            "Tier": 0,
-            "Message": "Atresmedia introduce mejoras en su plataforma de streaming para una experiencia más fluida. ¡Actualización importante!",
-            "Time": 3.0,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "atresmedia",
-            "Tier": 0,
-            "Message": "El canal sufre una caída en la audiencia debido a la competencia. ¡Desafíos en el mercado!",
-            "Time": 4.5,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "atresmedia",
-            "Tier": 0,
-            "Message": "Atresmedia organiza un evento en vivo con famosos para atraer a más espectadores. ¡Gran espectáculo en pantalla!",
-            "Time": 2.5,
-            "BaseSlope": 1.5
-        },
-        {
-            "ID": "casa_real",
-            "Tier": 0,
-            "Message": "La Casa Real organiza una gala benéfica con gran éxito. ¡Recogida de fondos para buenas causas!",
-            "Time": 3.0,
-            "BaseSlope": 2.0
-        },
-        {
-            "ID": "casa_real",
-            "Tier": 0,
-            "Message": "Un escándalo de evasión fiscal afecta a un miembro de la familia real. ¡Polémica en la monarquía!",
-            "Time": 4.5,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "casa_real",
-            "Tier": 0,
-            "Message": "La Casa Real anuncia una nueva serie de compromisos oficiales en el extranjero. ¡Diplomacia real en acción!",
-            "Time": 2.5,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "casa_real",
-            "Tier": 0,
-            "Message": "Un incidente en un evento público genera críticas hacia la familia real. ¡Problemas de imagen!",
-            "Time": 4.0,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "casa_real",
-            "Tier": 0,
-            "Message": "La Casa Real lanza una nueva iniciativa para apoyar a las comunidades desfavorecidas. ¡Compromiso social!",
-            "Time": 2.0,
-            "BaseSlope": 1.5
-        },
-        {
-            "ID": "casa_real",
-            "Tier": 0,
-            "Message": "Un miembro de la familia real sufre un accidente menor, causando preocupación en los medios. ¡Noticia en las portadas!",
-            "Time": 3.5,
-            "BaseSlope": 2.0
-        },
-        {
-            "ID": "casa_real",
-            "Tier": 0,
-            "Message": "Las reformas en el palacio generan críticas por el gasto excesivo. ¡Polémica sobre el uso del presupuesto!",
-            "Time": 4.0,
-            "BaseSlope": -2.2
-        },
-        {
-            "ID": "casa_real",
-            "Tier": 0,
-            "Message": "La Casa Real celebra un evento para conmemorar un importante aniversario. ¡Celebraciones oficiales!",
-            "Time": 3.0,
-            "BaseSlope": 1.5
-        },
-        {
-            "ID": "casa_real",
-            "Tier": 0,
-            "Message": "Un libro revelador sobre la familia real se convierte en un best-seller. ¡Interés creciente en la monarquía!",
-            "Time": 4.5,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "casa_real",
-            "Tier": 0,
-            "Message": "La Casa Real lanza una nueva campaña para promover el turismo en el país. ¡Iniciativa de promoción nacional!",
-            "Time": 2.5,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "repsol",
-            "Tier": 0,
-            "Message": "Repsol anuncia un gran avance en tecnología de energías renovables. ¡Innovación ecológica!",
-            "Time": 3.0,
-            "BaseSlope": 2.0
-        },
-        {
-            "ID": "repsol",
-            "Tier": 0,
-            "Message": "Un derrame de petróleo en una planta de Repsol causa preocupación ambiental. ¡Desastres ecológicos!",
-            "Time": 4.5,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "repsol",
-            "Tier": 0,
-            "Message": "Repsol lanza una campaña para reducir la huella de carbono de sus operaciones. ¡Compromiso verde!",
-            "Time": 2.5,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "repsol",
-            "Tier": 0,
-            "Message": "Problemas con la cadena de suministro afectan la producción. ¡Interrupciones operativas!",
-            "Time": 4.0,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "repsol",
-            "Tier": 0,
-            "Message": "Repsol firma un acuerdo con una startup de tecnología para desarrollar nuevas soluciones energéticas. ¡Alianzas estratégicas!",
-            "Time": 2.0,
-            "BaseSlope": 1.5
-        },
-        {
-            "ID": "repsol",
-            "Tier": 0,
-            "Message": "Un incendio en una refinería de Repsol genera retrasos en la producción. ¡Crisis operativa!",
-            "Time": 3.5,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "repsol",
-            "Tier": 0,
-            "Message": "Repsol realiza una importante inversión en proyectos de energía solar. ¡Energía del futuro!",
-            "Time": 2.5,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "repsol",
-            "Tier": 0,
-            "Message": "Un escándalo de corrupción afecta a altos ejecutivos de Repsol. ¡Problemas de integridad!",
-            "Time": 4.0,
-            "BaseSlope": -2.2
-        },
-        {
-            "ID": "repsol",
-            "Tier": 0,
-            "Message": "Repsol introduce una nueva línea de combustibles más ecológicos. ¡Innovación en productos!",
-            "Time": 3.0,
-            "BaseSlope": 1.5
-        },
-        {
-            "ID": "repsol",
-            "Tier": 0,
-            "Message": "Repsol enfrenta protestas por el impacto ambiental de sus operaciones. ¡Descontento público!",
-            "Time": 4.5,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "mercadona",
-            "Tier": 0,
-            "Message": "Mercadona lanza una nueva línea de productos orgánicos. ¡Innovación en la oferta de productos!",
-            "Time": 3.0,
-            "BaseSlope": 2.0
-        },
-        {
-            "ID": "mercadona",
-            "Tier": 0,
-            "Message": "Problemas en la cadena de suministro afectan la disponibilidad de productos. ¡Desafíos logísticos!",
-            "Time": 4.5,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "mercadona",
-            "Tier": 0,
-            "Message": "Mercadona abre una nueva tienda en una ubicación estratégica. ¡Expansión en el mercado!",
-            "Time": 2.5,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "mercadona",
-            "Tier": 0,
-            "Message": "Un escándalo de etiquetado incorrecto genera preocupaciones entre los consumidores. ¡Problemas de calidad!",
-            "Time": 4.0,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "mercadona",
-            "Tier": 0,
-            "Message": "Mercadona inicia un programa de reciclaje en sus tiendas. ¡Compromiso ecológico!",
-            "Time": 2.0,
-            "BaseSlope": 1.5
-        },
-        {
-            "ID": "mercadona",
-            "Tier": 0,
-            "Message": "Un nuevo sistema de atención al cliente en línea mejora la experiencia de compra. ¡Más comodidad para los usuarios!",
-            "Time": 3.5,
-            "BaseSlope": 2.0
-        },
-        {
-            "ID": "mercadona",
-            "Tier": 0,
-            "Message": "Mercadona enfrenta críticas por la falta de diversidad en su gama de productos. ¡Desafíos de inclusión!",
-            "Time": 4.0,
-            "BaseSlope": -2.2
-        },
-        {
-            "ID": "mercadona",
-            "Tier": 0,
-            "Message": "Mercadona ofrece descuentos especiales para fidelizar a sus clientes. ¡Ofertas atractivas!",
-            "Time": 3.0,
-            "BaseSlope": 1.5
-        },
-        {
-            "ID": "mercadona",
-            "Tier": 0,
-            "Message": "Una campaña de marketing de Mercadona se convierte en viral. ¡Éxito en la promoción!",
-            "Time": 4.5,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "mercadona",
-            "Tier": 0,
-            "Message": "Mercadona recibe premios por sus prácticas sostenibles. ¡Reconocimientos a la responsabilidad empresarial!",
-            "Time": 2.5,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "amazon",
-            "Tier": 0,
-            "Message": "Amazon lanza un nuevo servicio de entrega con drones. ¡Innovación en la logística!",
-            "Time": 3.0,
-            "BaseSlope": 2.0
-        },
-        {
-            "ID": "amazon",
-            "Tier": 0,
-            "Message": "Un escándalo de condiciones laborales en los almacenes de Amazon genera críticas. ¡Problemas en el trabajo!",
-            "Time": 4.5,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "amazon",
-            "Tier": 0,
-            "Message": "Amazon anuncia una expansión en el mercado internacional. ¡Crecimiento global!",
-            "Time": 2.5,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "amazon",
-            "Tier": 0,
-            "Message": "Problemas con la cadena de suministro afectan la disponibilidad de productos. ¡Desafíos operativos!",
-            "Time": 4.0,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "amazon",
-            "Tier": 0,
-            "Message": "Amazon introduce una nueva línea de productos sostenibles. ¡Iniciativas ecológicas!",
-            "Time": 2.0,
-            "BaseSlope": 1.5
-        },
-        {
-            "ID": "amazon",
-            "Tier": 0,
-            "Message": "Una caída en la plataforma de Amazon Web Services afecta a numerosos clientes. ¡Interrupción de servicios!",
-            "Time": 3.5,
-            "BaseSlope": -2.0
-        },
-        {
-            "ID": "amazon",
-            "Tier": 0,
-            "Message": "Amazon ofrece descuentos exclusivos en Prime Day. ¡Fiebre de compras en línea!",
-            "Time": 2.5,
-            "BaseSlope": 1.8
-        },
-        {
-            "ID": "amazon",
-            "Tier": 0,
-            "Message": "Un libro sobre prácticas empresariales de Amazon se convierte en bestseller. ¡Interés en la empresa!",
-            "Time": 4.0,
-            "BaseSlope": -2.2
-        },
-        {
-            "ID": "amazon",
-            "Tier": 0,
-            "Message": "Amazon realiza una importante inversión en tecnología de inteligencia artificial. ¡Futuro tecnológico!",
-            "Time": 3.0,
-            "BaseSlope": 1.5
-        },
-        {
-            "ID": "amazon",
-            "Tier": 0,
-            "Message": "Protestas por el impacto ambiental de las operaciones de Amazon generan controversia. ¡Descontento ecológico!",
-            "Time": 4.5,
-            "BaseSlope": -2.5
-        },
-        {
-            "ID": "rfef",
-            "Tier": 0,
-            "Message": "!La selección femenina de futbol gana el mundial! ¡Atad a Rubiales!",
-            "Time": 4,
-            "BaseSlope": -4
-        },
-        {
-            "ID": "rfef",
-            "Tier": 0,
-            "Message": "No voy a dimitir",
-            "Time": 2,
-            "BaseSlope": -4
-        },
-        {
-            "ID": "rfef",
-            "Tier": 0,
-            "Message": "La supercopa se va a Arabia...",
-            "Time": 5,
-            "BaseSlope": -15
-        },
-        {
-            "ID": "rfef",
-            "Tier": 0,
-            "Message": "Beso a Jenni Hermoso",
-            "Time": 2,
-            "BaseSlope": -6
-        },
-        {
-            "ID": "rfef",
-            "Tier": 0,
-            "Message": "¡Campeones de la eurocopa!",
+            "Message": "New eco-friendly line by shein made with 5 sustainable materials and 95 marketing",
             "Time": 3,
-            "BaseSlope": 2
+            "Weight": -1
         },
         {
-            "ID": "rfef",
+            "ID": "shein",
             "Tier": 0,
-            "Message": "¿Alguien está pagando a los árbitros?",
+            "Message": "Shein sets new speed record for fast fashion products outliving their trend by 10 minutes",
             "Time": 3,
-            "BaseSlope": -1
+            "Weight": -18
         },
         {
-            "ID": "rfef",
+            "ID": "shein",
             "Tier": 0,
-            "Message": "Se destapa caso de corrupción, parece que lo de la Supercopa a Arabia no fue tan buena idea",
+            "Message": "Rumor has it shein employees are now trained to sew with their eyes closed for maximum speed",
             "Time": 3,
-            "BaseSlope": -18
+            "Weight": -3
         },
         {
-            "ID": "rfef",
+            "ID": "shein",
             "Tier": 0,
-            "Message": "¡Lopetegui a la calle a falta de 48 horas para el mundial de Rusia!",
+            "Message": "In a bold move shein partners with landfills for same-day delivery",
             "Time": 3,
-            "BaseSlope": -3
+            "Weight": -1
         },
         {
-            "ID": "ferreteria_paco",
+            "ID": "shein",
             "Tier": 0,
-            "Message": "Hey Javi! Una ayudita, selecciona el tablero para que te suban los dineros",
-            "Time": 10,
-            "BaseSlope": 2
-        },
-        {
-            "ID": "ferreteria_paco",
-            "Tier": 0,
-            "Message": "Esto es un evento / noticia, es información sobre la empresa para que sepas si va a subir o bajar",
+            "Message": "Shein announces innovative recycling program return your clothes and we’ll burn them for you",
             "Time": 3,
-            "BaseSlope": -3
+            "Weight": -1
+        },
+        {
+            "ID": "bayer",
+            "Tier": 0,
+            "Message": "Lawsuit filed after it was revealed that some products might actually not cause cancer",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "bayer",
+            "Tier": 0,
+            "Message": "Bayer's latest innovation weed killer that targets both weeds and local ecosystems",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "bayer",
+            "Tier": 0,
+            "Message": "Groundbreaking study by pesticide maker proves bees are totally fine with fewer numbers",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "bayer",
+            "Tier": 0,
+            "Message": "Farmers celebrate Bayer's new seeds that grow best in toxic waste environments",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "bayer",
+            "Tier": 0,
+            "Message": "Exciting news Bayer discovers new side effects for a medication already on the market for 30 years",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "bayer",
+            "Tier": 0,
+            "Message": "Good news Bayer promises their new product won't harm you as long as you don't inhale, touch, or look at it directly",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "bayer",
+            "Tier": 0,
+            "Message": "Record settlement Bayer sets aside 10 billion to pay off people who used their products as directed",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "bayer",
+            "Tier": 0,
+            "Message": "In a shocking twist Bayer announces a new pill where only 25 side effects are life-threatening",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "bayer",
+            "Tier": 0,
+            "Message": "Latest breakthrough from Bayer genetically modified crops that outgrow regulations",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "bayer",
+            "Tier": 0,
+            "Message": "Local rivers thank bayer's fertilizers for their new fluorescent glow",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "apple",
+            "Tier": 0,
+            "Message": "The bitten fruit company releases a new iPhone with a revolutionary feature: USB-C port, only 10 years in the making.",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "apple",
+            "Tier": 0,
+            "Message": "Rumors suggest the next iPhone will be completely transparent—so invisible, you won’t see it... or your money.",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "apple",
+            "Tier": 0,
+            "Message": "Steve Jobs would have definitely approved selling Mac Pro wheels for just $700 each.",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "apple",
+            "Tier": 0,
+            "Message": "In a bold move, Apple patents the right to charge you for breathing near an Apple Store.",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "apple",
+            "Tier": 0,
+            "Message": "Users thrilled to discover that the latest iOS update makes their iPhone reboot 5 seconds faster after every crash.",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "apple",
+            "Tier": 0,
+            "Message": "The tech giant introduces the new Apple Watch, now with a feature that reminds you every hour how broke you are.",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "apple",
+            "Tier": 0,
+            "Message": "Apple promises that their new AirPods will be so small, you’ll lose them before you even take them out of the box.",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "apple",
+            "Tier": 0,
+            "Message": "After the iPhone 15 success, Apple plans to release the iPhone 16, this time with a charger sold separately... in pieces.",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "apple",
+            "Tier": 0,
+            "Message": "Fans rejoice as the latest security patch finally fixes the issue of having too much money left in your wallet.",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "apple",
+            "Tier": 0,
+            "Message": "Sources say Apple’s next big product will be the \"Apple Breath,\" a device that tracks how often you lose your breath staring at their prices.",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "british_american_tobacco",
+            "Tier": 0,
+            "Message": "British American Tobacco announces new eco-friendly cigarettes that are 99% smoke... and 1% guilt",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "british_american_tobacco",
+            "Tier": 0,
+            "Message": "Big tobacco finally solves the problem of cancer-causing products: they now come in fancier packaging",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "british_american_tobacco",
+            "Tier": 0,
+            "Message": "Sources reveal tobacco execs may have started believing their own ads about “smooth and refreshing” health benefits",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "british_american_tobacco",
+            "Tier": 0,
+            "Message": "In a bold move, the cigarette giant launches a campaign promoting “smoke responsibly” while also doubling advertising to teens",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "british_american_tobacco",
+            "Tier": 0,
+            "Message": "Shocking studies find cigarettes might not be part of a balanced diet after all, confirms british american tobacco",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "british_american_tobacco",
+            "Tier": 0,
+            "Message": "The “fresh air” marketing campaign takes a surprising turn with slogans like “our smoke has never been more transparent”",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "british_american_tobacco",
+            "Tier": 0,
+            "Message": "British american tobacco sets new sustainability goals: all cigarette butts to be recycled into... more cigarettes",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "british_american_tobacco",
+            "Tier": 0,
+            "Message": "Rumors suggest the tobacco industry is working on a new filter that makes the tar invisible to the naked eye",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "british_american_tobacco",
+            "Tier": 0,
+            "Message": "After years of research, british american tobacco proudly introduces cigarettes that only slightly shorten your lifespan",
+            "Time": 3,
+            "Weight": -1
+        },
+        {
+            "ID": "british_american_tobacco",
+            "Tier": 0,
+            "Message": "Cigarette sales reach new highs as british american tobacco unveils their latest product “lungs of steel” training program",
+            "Time": 3,
+            "Weight": -1
         }
     ]
 }
