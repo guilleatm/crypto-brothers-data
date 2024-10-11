@@ -4,32 +4,6 @@
 		{
 			"Name": "BA Tobacco",
 			"ID": "british_american_tobacco",
-			"MinTime": 0.7,
-			"MaxTime": 1,
-			"MaxSlope": 0.675,
-			"BaseSlope": 0.3375,
-			"Multiplier": 1,
-			"Coins": 3250,
-			"Gems": 1,
-			"Width": 8,
-			"Color": "#801f76"
-		  },
-		  {
-			"Name": "Shein",
-			"ID": "shein",
-			"MinTime": 0.8,
-			"MaxTime": 1,
-			"MaxSlope": 1.0125,
-			"BaseSlope": 0.50625,
-			"Multiplier": 1,
-			"Coins": 4876,
-			"Gems": 2,
-			"Width": 9,
-			"Color": "#e37719"
-		  },
-		  {
-			"Name": "Bayer",
-			"ID": "bayer",
 			"MinTime": 0.9,
 			"MaxTime": 1,
 			"MaxSlope": 1.51875,
@@ -41,9 +15,9 @@
 			"Color": "#d4472f"
 		  },
 		  {
-			"Name": "Apple",
-			"ID": "apple",
-			"MinTime": 0.1,
+			"Name": "Shein",
+			"ID": "shein",
+			"MinTime": 0.10,
 			"MaxTime": 1,
 			"MaxSlope": 2.278125,
 			"BaseSlope": 1.1390625,
@@ -54,8 +28,8 @@
 			"Color": "#e32d5b"
 		  },
 		  {
-			"Name": "Amazon",
-			"ID": "amazon",
+			"Name": "Bayer",
+			"ID": "bayer",
 			"MinTime": 0.11,
 			"MaxTime": 1,
 			"MaxSlope": 3.4171875,
@@ -66,6 +40,34 @@
 			"Width": 12,
 			"Color": "#e6b01e"
 		  },
+		  {
+			"Name": "Apple",
+			"ID": "apple",
+			"MinTime": 0.12,
+			"MaxTime": 1,
+			"MaxSlope": 5.12578125,
+			"BaseSlope": 2.562890625,
+			"Multiplier": 1,
+			"Coins": 29555.6875,
+			"Gems": 3,
+			"Width": 13,
+			"Color": "#fffaed"
+		  },
+		  {
+			"Name": "Amazon",
+			"ID": "amazon",
+			"MinTime": 0.13,
+			"MaxTime": 1,
+			"MaxSlope": 7.688671875,
+			"BaseSlope": 3.844335938,
+			"Multiplier": 1,
+			"Coins": 45332.03125,
+			"Gems": 3,
+			"Width": 14,
+			"Color": "#1b7fe3"
+		  },
+
+
 		{
 		  "Name": "Ferreteria Paco",
 		  "ID": "ferreteria_paco",
@@ -273,19 +275,6 @@
 		  "Gems": 6,
 		  "Width": 20,
 		  "Color": "#e31919"
-		},
-		{
-		  "Name": "Amazon",
-		  "ID": "amazon",
-		  "MinTime": 0.2,
-		  "MaxTime": 1,
-		  "MaxSlope": 131.3681671,
-		  "BaseSlope": 65.68408356,
-		  "Multiplier": 1,
-		  "Coins": 787010.0027,
-		  "Gems": 7,
-		  "Width": 21,
-		  "Color": "#f7882d"
 		},
 		{
 		  "Name": "Meta",
