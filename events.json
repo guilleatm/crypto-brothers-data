@@ -292,63 +292,63 @@
             "Tier": 0,
             "Message": "Big tobacco finally solves the problem of cancer-causing products: they now come in fancier packaging",
             "Time": 2,
-            "Weight": -3
+            "Weight": -6
         },
         {
             "ID": "british_american_tobacco",
             "Tier": 0,
             "Message": "Sources reveal tobacco execs may have started believing their own ads about “smooth and refreshing” health benefits",
             "Time": 3,
-            "Weight": -4
+            "Weight": -8
         },
         {
             "ID": "british_american_tobacco",
             "Tier": 0,
             "Message": "In a bold move, the cigarette giant launches a campaign promoting “smoke responsibly” while also doubling advertising to teens",
             "Time": 6,
-            "Weight": -5
+            "Weight": -10
         },
         {
             "ID": "british_american_tobacco",
             "Tier": 0,
             "Message": "Shocking studies find cigarettes might not be part of a balanced diet after all, confirms british american tobacco",
             "Time": 5,
-            "Weight": -4
+            "Weight": -8
         },
         {
             "ID": "british_american_tobacco",
             "Tier": 0,
             "Message": "The “fresh air” marketing campaign takes a surprising turn with slogans like “our smoke has never been more transparent”",
             "Time": 4,
-            "Weight": -3
+            "Weight": -6
         },
         {
             "ID": "british_american_tobacco",
             "Tier": 0,
             "Message": "British american tobacco sets new sustainability goals: all cigarette butts to be recycled into... more cigarettes",
             "Time": 3,
-            "Weight": -1
+            "Weight": -4
         },
         {
             "ID": "british_american_tobacco",
             "Tier": 0,
             "Message": "Rumors suggest the tobacco industry is working on a new filter that makes the tar invisible to the naked eye",
             "Time": 3,
-            "Weight": -2
+            "Weight": -4
         },
         {
             "ID": "british_american_tobacco",
             "Tier": 0,
             "Message": "After years of research, british american tobacco proudly introduces cigarettes that only slightly shorten your lifespan",
             "Time": 2,
-            "Weight": -3
+            "Weight": -6
         },
         {
             "ID": "british_american_tobacco",
             "Tier": 0,
             "Message": "Cigarette sales reach new highs as british american tobacco unveils their latest product “lungs of steel” training program",
-            "Time": 1,
-            "Weight": 1
+            "Time": 4,
+            "Weight": 10
         }
     ]
 }
