@@ -54,14 +54,14 @@
 		  "Color": "#fffaed"
 		},
 		{
-		  "Name": "Atresmedia",
-		  "ID": "atresmedia",
+		  "Name": "Bayer",
+		  "ID": "bayer",
 		  "MinTime": 0.8,
 		  "MaxTime": 1,
 		  "MaxSlope": 1.0125,
 		  "BaseSlope": 0.50625,
 		  "Multiplier": 1,
-		  "Coins": 48760,
+		  "Coins": 48700,
 		  "Gems": 2,
 		  "Width": 9,
 		  "Color": "#e37719"
