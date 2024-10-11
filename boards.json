@@ -2,7 +2,7 @@
 	"boards":
 	[
 		{
-		  "Name": "British American Tobacco",
+		  "Name": "BA Tobacco",
 		  "ID": "british_american_tobacco",
 		  "MinTime": 0.9,
 		  "MaxTime": 1,
