@@ -4,84 +4,84 @@
             "ID": "amazon",
             "Tier": 0,
             "Message": "New Amazon drone delivery service promises to drop packages almost near your house",
-            "Time": 3.0,
-            "Weight": 2.0
+            "Time": 2,
+            "Weight": -3
         },
         {
             "ID": "amazon",
             "Tier": 0,
             "Message": "Breaking Amazon workers now allowed to blink twice per shift",
-            "Time": 4.5,
+            "Time": 4,
             "Weight": -2.5
         },
         {
             "ID": "amazon",
             "Tier": 0,
             "Message": "Exciting Amazon Prime now includes 1-day shipping on burnout for warehouse employees",
-            "Time": 2.5,
-            "Weight": 1.8
+            "Time": 5,
+            "Weight": -1
         },
         {
             "ID": "amazon",
             "Tier": 0,
             "Message": "Shocking Amazon discovered to be evading taxes in countries that actually collect them",
-            "Time": 4.0,
-            "Weight": -2.0
+            "Time": 6,
+            "Weight": -5
         },
         {
             "ID": "amazon",
             "Tier": 0,
             "Message": "Local business celebrates being crushed by Amazon ahead of schedule",
-            "Time": 2.0,
-            "Weight": 1.5
+            "Time": 3,
+            "Weight": 2
         },
         {
             "ID": "amazon",
             "Tier": 0,
             "Message": "Amazon introduces a new 5-minute bathroom break lottery for employees",
-            "Time": 3.5,
-            "Weight": -2.0
+            "Time": 4,
+            "Weight": -2
         },
         {
             "ID": "amazon",
             "Tier": 0,
             "Message": "New Amazon initiative zero carbon emissions by replacing all human workers with robots",
-            "Time": 2.5,
-            "Weight": 1.8
+            "Time": 5,
+            "Weight": -4
         },
         {
             "ID": "amazon",
             "Tier": 0,
             "Message": "Customers rejoice Amazon promises to ship empathy in 2 years or less",
-            "Time": 4.0,
-            "Weight": -2.2
+            "Time": 3,
+            "Weight": -1
         },
         {
             "ID": "amazon",
             "Tier": 0,
             "Message": "Record profits Amazon achieves goal of same-day delivery on all ethical concerns",
-            "Time": 3.0,
-            "Weight": 1.5
+            "Time": 2,
+            "Weight": 2
         },
         {
             "ID": "amazon",
             "Tier": 0,
             "Message": "Ambitious Amazon plans to deliver packages faster than you can regret your purchase",
-            "Time": 4.5,
-            "Weight": -2.5
+            "Time": 2,
+            "Weight": 3
         },
         {
             "ID": "shein",
             "Tier": 0,
             "Message": "Shein launches new collection clothes for one-time use literally",
-            "Time": 4,
-            "Weight": -4
+            "Time": 3,
+            "Weight": -5
         },
         {
             "ID": "shein",
             "Tier": 0,
             "Message": "Unbelievable shein promises 0.01 transparency in its supply chain",
-            "Time": 2,
+            "Time": 4,
             "Weight": -4
         },
         {
@@ -89,21 +89,21 @@
             "Tier": 0,
             "Message": "Leaked Shein workers allowed to sleep 3 hours if they finish 500 garments a day",
             "Time": 5,
-            "Weight": -15
+            "Weight": -2
         },
         {
             "ID": "shein",
             "Tier": 0,
             "Message": "Flash sale buy two dresses and get an environmental crisis for free",
-            "Time": 2,
-            "Weight": -6
+            "Time": 6,
+            "Weight": -5
         },
         {
             "ID": "shein",
             "Tier": 0,
-            "Message": "Shein claims sustainability is key they`ve stopped using plastic bags in employee lunches",
-            "Time": 3,
-            "Weight": 2
+            "Message": "Shein claims sustainability is key they've stopped using plastic bags in employee lunches",
+            "Time": 2,
+            "Weight": -2
         },
         {
             "ID": "shein",
@@ -116,211 +116,211 @@
             "ID": "shein",
             "Tier": 0,
             "Message": "Shein sets new speed record for fast fashion products outliving their trend by 10 minutes",
-            "Time": 3,
-            "Weight": -18
+            "Time": 2,
+            "Weight": 2
         },
         {
             "ID": "shein",
             "Tier": 0,
             "Message": "Rumor has it shein employees are now trained to sew with their eyes closed for maximum speed",
-            "Time": 3,
-            "Weight": -3
+            "Time": 4,
+            "Weight": -2
         },
         {
             "ID": "shein",
             "Tier": 0,
             "Message": "In a bold move shein partners with landfills for same-day delivery",
-            "Time": 3,
-            "Weight": -1
+            "Time": 5,
+            "Weight": -2
         },
         {
             "ID": "shein",
             "Tier": 0,
             "Message": "Shein announces innovative recycling program return your clothes and we’ll burn them for you",
-            "Time": 3,
-            "Weight": -1
+            "Time": 4,
+            "Weight": -4
         },
         {
             "ID": "bayer",
             "Tier": 0,
             "Message": "Lawsuit filed after it was revealed that some products might actually not cause cancer",
-            "Time": 3,
-            "Weight": -1
+            "Time": 4,
+            "Weight": -5
         },
         {
             "ID": "bayer",
             "Tier": 0,
-            "Message": "Bayer`s latest innovation weed killer that targets both weeds and local ecosystems",
-            "Time": 3,
-            "Weight": -1
+            "Message": "Bayer's latest innovation weed killer that targets both weeds and local ecosystems",
+            "Time": 5,
+            "Weight": -3
         },
         {
             "ID": "bayer",
             "Tier": 0,
             "Message": "Groundbreaking study by pesticide maker proves bees are totally fine with fewer numbers",
-            "Time": 3,
-            "Weight": -1
+            "Time": 4,
+            "Weight": -2
         },
         {
             "ID": "bayer",
             "Tier": 0,
-            "Message": "Farmers celebrate Bayer`s new seeds that grow best in toxic waste environments",
-            "Time": 3,
-            "Weight": -1
+            "Message": "Farmers celebrate Bayer's new seeds that grow best in toxic waste environments",
+            "Time": 6,
+            "Weight": 2
         },
         {
             "ID": "bayer",
             "Tier": 0,
             "Message": "Exciting news Bayer discovers new side effects for a medication already on the market for 30 years",
             "Time": 3,
-            "Weight": -1
+            "Weight": -4
         },
         {
             "ID": "bayer",
             "Tier": 0,
-            "Message": "Good news Bayer promises their new product won`t harm you as long as you don`t inhale, touch, or look at it directly",
-            "Time": 3,
-            "Weight": -1
+            "Message": "Good news Bayer promises their new product won't harm you as long as you don't inhale, touch, or look at it directly",
+            "Time": 4,
+            "Weight": -5
         },
         {
             "ID": "bayer",
             "Tier": 0,
             "Message": "Record settlement Bayer sets aside 10 billion to pay off people who used their products as directed",
-            "Time": 3,
-            "Weight": -1
+            "Time": 7,
+            "Weight": -3
         },
         {
             "ID": "bayer",
             "Tier": 0,
             "Message": "In a shocking twist Bayer announces a new pill where only 25 side effects are life-threatening",
             "Time": 3,
-            "Weight": -1
+            "Weight": -2
         },
         {
             "ID": "bayer",
             "Tier": 0,
             "Message": "Latest breakthrough from Bayer genetically modified crops that outgrow regulations",
-            "Time": 3,
-            "Weight": -1
+            "Time": 5,
+            "Weight": 2
         },
         {
             "ID": "bayer",
             "Tier": 0,
-            "Message": "Local rivers thank bayer`s fertilizers for their new fluorescent glow",
-            "Time": 3,
-            "Weight": -1
+            "Message": "Local rivers thank bayer's fertilizers for their new fluorescent glow",
+            "Time": 6,
+            "Weight": -3
         },
         {
             "ID": "apple",
             "Tier": 0,
             "Message": "The bitten fruit company releases a new iPhone with a revolutionary feature: USB-C port, only 10 years in the making.",
-            "Time": 3,
-            "Weight": -1
+            "Time": 2,
+            "Weight": 2
         },
         {
             "ID": "apple",
             "Tier": 0,
             "Message": "Rumors suggest the next iPhone will be completely transparent—so invisible, you won’t see it... or your money.",
             "Time": 3,
-            "Weight": -1
+            "Weight": -3
         },
         {
             "ID": "apple",
             "Tier": 0,
             "Message": "Steve Jobs would have definitely approved selling Mac Pro wheels for just $700 each.",
-            "Time": 3,
-            "Weight": -1
+            "Time": 2,
+            "Weight": -2
         },
         {
             "ID": "apple",
             "Tier": 0,
             "Message": "In a bold move, Apple patents the right to charge you for breathing near an Apple Store.",
-            "Time": 3,
-            "Weight": -1
+            "Time": 4,
+            "Weight": -4
         },
         {
             "ID": "apple",
             "Tier": 0,
             "Message": "Users thrilled to discover that the latest iOS update makes their iPhone reboot 5 seconds faster after every crash.",
-            "Time": 3,
-            "Weight": -1
+            "Time": 1,
+            "Weight": 1
         },
         {
             "ID": "apple",
             "Tier": 0,
             "Message": "The tech giant introduces the new Apple Watch, now with a feature that reminds you every hour how broke you are.",
-            "Time": 3,
+            "Time": 2,
             "Weight": -1
         },
         {
             "ID": "apple",
             "Tier": 0,
             "Message": "Apple promises that their new AirPods will be so small, you’ll lose them before you even take them out of the box.",
-            "Time": 3,
-            "Weight": -1
+            "Time": 2,
+            "Weight": 0
         },
         {
             "ID": "apple",
             "Tier": 0,
             "Message": "After the iPhone 15 success, Apple plans to release the iPhone 16, this time with a charger sold separately... in pieces.",
             "Time": 3,
-            "Weight": -1
+            "Weight": -2
         },
         {
             "ID": "apple",
             "Tier": 0,
             "Message": "Fans rejoice as the latest security patch finally fixes the issue of having too much money left in your wallet.",
-            "Time": 3,
-            "Weight": -1
+            "Time": 1,
+            "Weight": 1
         },
         {
             "ID": "apple",
             "Tier": 0,
-            "Message": "Sources say Apple’s next big product will be the `Apple Breath, a device that tracks how often you lose your breath staring at their prices.",
+            "Message": "Sources say Apple’s next big product will be the 'Apple Breath,' a device that tracks how often you lose your breath staring at their prices.",
             "Time": 3,
-            "Weight": -1
+            "Weight": -3
         },
         {
             "ID": "british_american_tobacco",
             "Tier": 0,
             "Message": "British American Tobacco announces new eco-friendly cigarettes that are 99% smoke... and 1% guilt",
-            "Time": 3,
-            "Weight": -1
+            "Time": 4,
+            "Weight": -2
         },
         {
             "ID": "british_american_tobacco",
             "Tier": 0,
             "Message": "Big tobacco finally solves the problem of cancer-causing products: they now come in fancier packaging",
-            "Time": 3,
-            "Weight": -1
+            "Time": 2,
+            "Weight": -3
         },
         {
             "ID": "british_american_tobacco",
             "Tier": 0,
             "Message": "Sources reveal tobacco execs may have started believing their own ads about “smooth and refreshing” health benefits",
             "Time": 3,
-            "Weight": -1
+            "Weight": -4
         },
         {
             "ID": "british_american_tobacco",
             "Tier": 0,
             "Message": "In a bold move, the cigarette giant launches a campaign promoting “smoke responsibly” while also doubling advertising to teens",
-            "Time": 3,
-            "Weight": -1
+            "Time": 6,
+            "Weight": -5
         },
         {
             "ID": "british_american_tobacco",
             "Tier": 0,
             "Message": "Shocking studies find cigarettes might not be part of a balanced diet after all, confirms british american tobacco",
-            "Time": 3,
-            "Weight": -1
+            "Time": 5,
+            "Weight": -4
         },
         {
             "ID": "british_american_tobacco",
             "Tier": 0,
             "Message": "The “fresh air” marketing campaign takes a surprising turn with slogans like “our smoke has never been more transparent”",
-            "Time": 3,
-            "Weight": -1
+            "Time": 4,
+            "Weight": -3
         },
         {
             "ID": "british_american_tobacco",
@@ -334,21 +334,21 @@
             "Tier": 0,
             "Message": "Rumors suggest the tobacco industry is working on a new filter that makes the tar invisible to the naked eye",
             "Time": 3,
-            "Weight": -1
+            "Weight": -2
         },
         {
             "ID": "british_american_tobacco",
             "Tier": 0,
             "Message": "After years of research, british american tobacco proudly introduces cigarettes that only slightly shorten your lifespan",
-            "Time": 3,
-            "Weight": -1
+            "Time": 2,
+            "Weight": -3
         },
         {
             "ID": "british_american_tobacco",
             "Tier": 0,
             "Message": "Cigarette sales reach new highs as british american tobacco unveils their latest product “lungs of steel” training program",
-            "Time": 3,
-            "Weight": -1
+            "Time": 1,
+            "Weight": 1
         }
     ]
 }
