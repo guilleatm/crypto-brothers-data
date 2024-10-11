@@ -101,7 +101,7 @@
         {
             "ID": "shein",
             "Tier": 0,
-            "Message": "Shein claims sustainability is key they've stopped using plastic bags in employee lunches",
+            "Message": "Shein claims sustainability is key they`ve stopped using plastic bags in employee lunches",
             "Time": 3,
             "Weight": 2
         },
@@ -150,7 +150,7 @@
         {
             "ID": "bayer",
             "Tier": 0,
-            "Message": "Bayer's latest innovation weed killer that targets both weeds and local ecosystems",
+            "Message": "Bayer`s latest innovation weed killer that targets both weeds and local ecosystems",
             "Time": 3,
             "Weight": -1
         },
@@ -164,7 +164,7 @@
         {
             "ID": "bayer",
             "Tier": 0,
-            "Message": "Farmers celebrate Bayer's new seeds that grow best in toxic waste environments",
+            "Message": "Farmers celebrate Bayer`s new seeds that grow best in toxic waste environments",
             "Time": 3,
             "Weight": -1
         },
@@ -178,7 +178,7 @@
         {
             "ID": "bayer",
             "Tier": 0,
-            "Message": "Good news Bayer promises their new product won't harm you as long as you don't inhale, touch, or look at it directly",
+            "Message": "Good news Bayer promises their new product won`t harm you as long as you don`t inhale, touch, or look at it directly",
             "Time": 3,
             "Weight": -1
         },
@@ -206,7 +206,7 @@
         {
             "ID": "bayer",
             "Tier": 0,
-            "Message": "Local rivers thank bayer's fertilizers for their new fluorescent glow",
+            "Message": "Local rivers thank bayer`s fertilizers for their new fluorescent glow",
             "Time": 3,
             "Weight": -1
         },
@@ -276,7 +276,7 @@
         {
             "ID": "apple",
             "Tier": 0,
-            "Message": "Sources say Apple’s next big product will be the 'Apple Breath,' a device that tracks how often you lose your breath staring at their prices.",
+            "Message": "Sources say Apple’s next big product will be the `Apple Breath, a device that tracks how often you lose your breath staring at their prices.",
             "Time": 3,
             "Weight": -1
         },
